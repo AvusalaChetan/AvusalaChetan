@@ -39,6 +39,13 @@ const chetan = {
 
 ---
 
+## 📦 Published Package
+
+[![express-jetstart](https://img.shields.io/badge/npm-express--jetstart-red?style=for-the-badge&logo=npm)](https://www.npmjs.com/package/express-jetstart)
+> CLI tool that scaffolds production-ready Express.js projects in seconds.
+
+---
+
 ## 🌐 Connect With Me
 
 <div align="center">
@@ -91,8 +98,9 @@ Malla Reddy Institute of Technology and Science
 ---
 
 ## 📊 GitHub Stats
+
 <div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AvusalaChetan&show_icons=true&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AvusalaChetan&show_icons=true&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AvusalaChetan&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
@@ -108,7 +116,7 @@ Malla Reddy Institute of Technology and Science
 - 👯 **Looking to collaborate**: Web-based projects and open-source contributions
 - 🤔 **Seeking help with**: Advanced backend architecture and optimization
 - 💬 **Ask me about**: Web development, JavaScript, Node.js, React, RESTful APIs, or collaboration opportunities
-- 📫 **Reach me**: 
+- 📫 **Reach me**:
   - 📧 Email: [avusalachetan@gmail.com](mailto:avusalachetan@gmail.com)
   - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/avusalachetan/)
   - 🌐 Portfolio: [View my work](https://avusalachetan.netlify.app/)
@@ -118,6 +126,7 @@ Malla Reddy Institute of Technology and Science
 ## 🔥 GitHub Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=AvusalaChetan&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+
 ---
 
 <div align="center">
